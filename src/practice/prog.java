@@ -10,6 +10,10 @@ public class prog {
 		
 		String b = "HITESH";
 		System.out.println(b.substring(b.length()/2-1, b.length()/2+1));
+		
+		String c = "SARANG";
+		System.out.println(c.substring(c.length()/2-1, c.length()/2+1));
+		
 	}
 
 }
