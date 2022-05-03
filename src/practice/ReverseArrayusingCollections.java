@@ -27,6 +27,8 @@ public class ReverseArrayusingCollections {
 		System.out.println(Arrays.toString(a));
 		for(int j=a.length-1;j>=0;j--) {
 			System.out.print(a[j]+" ");
+			
+			System.out.println();
 		}
 		
 		
